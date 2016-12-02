@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="562" systemVersion="11C74" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="MatchedDeal" representedClassName="MatchedDeal">
+        <attribute name="DealID" attributeType="String"/>
+        <attribute name="DealUrl" attributeType="String"/>
+        <attribute name="ImageUrl" optional="YES" attributeType="String"/>
+        <attribute name="OfferPrice" optional="YES" attributeType="Float" defaultValueString="0.0"/>
+        <attribute name="OriginalPrice" optional="YES" attributeType="Float" defaultValueString="0.0"/>
+        <attribute name="Title" optional="YES" attributeType="String"/>
+        <attribute name="WishID" attributeType="String"/>
+    </entity>
+    <entity name="Wish" representedClassName="Wish">
+        <attribute name="BrandName" optional="YES" attributeType="String"/>
+        <attribute name="CategoryID" optional="YES" attributeType="String"/>
+        <attribute name="CategoryName" attributeType="String"/>
+        <attribute name="CreatedOn" optional="YES" attributeType="Date"/>
+        <attribute name="ModelNumber" optional="YES" attributeType="String"/>
+        <attribute name="PriceRangeEnd" attributeType="Float" defaultValueString="0.0"/>
+        <attribute name="PriceRangeStart" attributeType="Float" defaultValueString="0.0"/>
+        <attribute name="WishID" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="MatchedDeal" positionX="-8361" positionY="-1863" width="128" height="150"/>
+        <element name="Wish" positionX="-8786" positionY="-1878" width="128" height="165"/>
+    </elements>
+</model>

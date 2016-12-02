@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Data</key>
+	<array>
+		<dict>
+			<key>CategoryName</key>
+			<string>Books</string>
+			<key>CategoryID</key>
+			<string></string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CategoryName</key>
+			<string>MP3 Players</string>
+			<key>CategoryID</key>
+			<string>119</string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CategoryName</key>
+			<string>Mobile Phones</string>
+			<key>CategoryID</key>
+			<string>90</string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CategoryName</key>
+			<string>Cameras &amp; Camcorders</string>
+			<key>CategoryID</key>
+			<string>82</string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CategoryName</key>
+			<string>Tablets</string>
+			<key>CategoryID</key>
+			<string>91</string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CategoryName</key>
+			<string>Laptops &amp; Netbook Computers</string>
+			<key>CategoryID</key>
+			<string>85</string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CategoryName</key>
+			<string>Shoe</string>
+			<key>CategoryID</key>
+			<string></string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CategoryName</key>
+			<string>Watches</string>
+			<key>CategoryID</key>
+			<string></string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CategoryName</key>
+			<string>Glasses</string>
+			<key>CategoryID</key>
+			<string></string>
+			<key>ImageName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
